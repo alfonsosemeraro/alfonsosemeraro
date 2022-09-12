@@ -5,7 +5,7 @@ Twitter: <a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="ht
 
 
 <p align="center">
-<img height="200" src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
+<img src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
 </p> 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -22,18 +22,20 @@ Twitter: <a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="ht
 
 <br>
 
-I have a PhD in Computer Science at [University of Turin](http://www.di.unito.it/do/home.pl), where I carried out my research with [my fantastic research group](https://arcs.di.unito.it/).
+I have a PhD in Computer Science at [University of Turin](http://www.di.unito.it/do/home.pl), where I carried out my research with [my fantastic research group](https://arcs.di.unito.it/). My work is at the crossroad of Data Science, Network Science and Machine Learning.
 
-I work with data, tons of data. 
 
 A few projects of mine:
-- I worked on a big dataset made of [two years of wire transfers](https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00314-x) between people and businesses
-- I always monitor social networks, trying to understand [how disinformation propagates](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00342-w) on them
-- I built a domain-specific, fully-automated [search engine](http://fakenewsresearch.net/) for assisting the academic [research on disinformation](https://arxiv.org/abs/2109.07909) 
-- I developed a tool for [detecting human emotions](https://github.com/alfonsosemeraro/emolib) in texts and then another one for [visualizing emotions](https://github.com/alfonsosemeraro/pyplutchik)
-- Sometimes I work on how to exploit the mathematical properties of [signed graphs](https://github.com/alfonsosemeraro/draw_signed_networkx), to make clear who is on which side of a conflict
+🏦 I worked on a big dataset made of [two years of wire transfers](https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00314-x) between people and businesses
+💻 I always monitor social networks, trying to understand [how disinformation propagates](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00342-w) on them
+🔬 I built a domain-specific, fully-automated [search engine](http://fakenewsresearch.net/) for assisting the academic [research on disinformation](https://arxiv.org/abs/2109.07909) 
+😍 I developed a tool for [detecting human emotions](https://github.com/alfonsosemeraro/emolib) in texts and then another one for [visualizing emotions](https://github.com/alfonsosemeraro/pyplutchik)
+💥 Sometimes I work on how to exploit the mathematical properties of [signed graphs](https://github.com/alfonsosemeraro/draw_signed_networkx), to make clear who is on which side of a conflict
 
-What do I do when I don't work? Well, I code 🤓
+And many others: I'm always crunching numbers!
+
+
+What do I do when I don't work? Well, I code 🤓 <br>
 But yeah, also sport ⚽🥊🎾
 
 <!--
