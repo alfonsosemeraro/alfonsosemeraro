@@ -4,9 +4,9 @@ Linkedin: <a href="https://www.linkedin.com/in/alfonsosemeraro/"><img align="lef
 Twitter: <a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="Alfonso Semeraro | Twitter" width="21px"/></a>
 
 
-<!-- <p align="center">
+<p align="center">
 <img style="clip:rect(0px,1000px,200px,0px);" src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
-</p> -->
+</p> 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
