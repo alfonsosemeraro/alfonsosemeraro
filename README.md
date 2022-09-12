@@ -1,7 +1,7 @@
 ### Hello! I'm Alfonso 👋
 
 <p align="center">
-<img width="200" height="200" src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
+<img width="1000" height="200" src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
 </p>
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -17,6 +17,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>
 
+<br>
+### Contacts
 <a href="https://www.linkedin.com/in/alfonsosemeraro/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Alfonso Semeraro | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="Alfonso Semeraro | Twitter" width="21px"/></a>
 
