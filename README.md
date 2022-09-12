@@ -4,6 +4,7 @@ Find me here: <br>
 <a href="https://www.linkedin.com/in/alfonsosemeraro/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Alfonso Semeraro | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="Alfonso Semeraro | Twitter" width="21px"/></a>
 
+<br><br>
 
 <!-- <p align="center">
 <img src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
