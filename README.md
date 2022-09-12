@@ -5,7 +5,7 @@ Twitter: <a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="ht
 
 
 <!-- <p align="center">
-<img style="clip:rect(0px,1000px,200px,0px)" src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
+<img style="clip:rect(0px,1000px,200px,0px);" src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
 </p> -->
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
