@@ -38,8 +38,8 @@ But yeah, also sport ⚽🥊🎾
 <br><br>
 
 Find me here: <br>
-<a href="https://www.linkedin.com/in/alfonsosemeraro/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Alfonso Semeraro | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="Alfonso Semeraro | Twitter" width="21px"/></a>
+<span><a href="https://www.linkedin.com/in/alfonsosemeraro/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Alfonso Semeraro | LinkedIn" width="50px"/></a></span>
+<span><a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="Alfonso Semeraro | Twitter" width="50px"/></a></span>
 
 
 <!--
