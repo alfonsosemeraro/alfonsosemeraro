@@ -5,7 +5,7 @@ Twitter: <a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="ht
 
 
 <p align="center">
-<img style="clip:rect(0px,1000px,200px,0px);" src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
+<img height="200" src="https://cutewallpaper.org/21/big-data-wallpaper/Making-Sense-of-Big-Data-Just-Say-the-Words-AW360.jpg" alt="my banner">
 </p> 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -13,8 +13,7 @@ Twitter: <a href="https://twitter.com/AlfonsoSemeraro"><img align="left" src="ht
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-<!-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) -->
-<br>
+
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
