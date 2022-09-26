@@ -33,7 +33,7 @@ And many others: I'm always crunching numbers!
 
 
 What do I do when I don't work? Well, I code 🤓 <br>
-But yeah, also sport ⚽🥊🎾
+But yeah, also enjoy sports ⚽🥊🎾
 
 <br><br>
 Find me here: <br>
