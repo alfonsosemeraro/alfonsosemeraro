@@ -23,7 +23,7 @@
 
 I’m a <b>Senior Data Scientist / AI Engineer</b> working on large-scale chatbots and vocalbots powered by <b>Generative AI</b>, currently in the telecom industry. <br> <br>
 
-I hold a <b>PhD in Computer Science</b> from the University of Turin, where my research focused on <b>network science, machine learning, NLP and online disinformation</b>. During my academic years I published peer-reviewed papers, spoke at international conferences (EU & US), and supervised 13 MSc/BSc theses. <br> <br>
+I hold a <b>PhD in Computer Science</b> from the University of Turin, where my research focused on <b>network science, machine learning, NLP and online disinformation</b>. During my academic years I published peer-reviewed papers, spoke at international conferences (EU & US), and supervised many MSc/BSc theses. <br> <br>
 
 After academia, I moved to industry and now work on <b>mission-critical conversational AI systems</b> serving thousands of sessions/day, with a measurable business impact worth millions of euros.
 
@@ -31,7 +31,7 @@ After academia, I moved to industry and now work on <b>mission-critical conversa
 <ul>
     <li>Design, build and maintain enterprise-grade chatbots and vocalbots end-to-end <br></li>
     <li>Heavy use of LLMs / Generative AI in production <br></li>
-    <li>Own the full stack around the bots: data pipelines (Pub/Sub, BigQuery), analytics & dashboards (Looker), cloud functions & microservices, CI/CD, monitoring, debugging...</li>
+    <li>Own the full stack around the bots: data pipelines (Pub/Sub, BigQuery...), analytics & dashboards (Looker), cloud functions & microservices, CI/CD, monitoring, debugging...</li>
     <li>Build customer segmentation models using deep learning (autoencoders + similarity search)</li>
 </ul>
 
@@ -52,8 +52,6 @@ Selected past work: <br>
 I like problems that sit at the intersection of data, systems and real-world impact. <br>
 If something involves scale, ambiguity, and ownership, I’m interested. <br> <br>
 
-
-What do I do when I don't work? Well, I code 🤓 <br>
 
 <br><br>
 Find me here: <br>
